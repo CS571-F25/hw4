@@ -110,6 +110,8 @@ In `Classroom.jsx`, add an `onClick` handler so that when the user clicks the "R
 
 **Important:** The displayed number of results (see Step 2) should also be updated to reflect the total number of students.
 
+Also note that after clicking the Reset button, the active page (discussed below in "Basic Pagination") should become 1. 
+
 ![](_figures/step7.png)
 
 ### 8. Basic Pagination
